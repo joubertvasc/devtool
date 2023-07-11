@@ -1,12 +1,19 @@
-Instalação:
-cd <diretório>
-yarn 
-yarn build
+# Instalação
 
-Utilize por linha de comando:
+    cd <diretório_onde_clonou_o_projeto>
+    yarn
+    yarn build
 
-cd <diretorio>/dist
-node index.js <comando> <opcao>
 
-Exemplo: 
-node index.js help
+# Execução
+
+
+
+    cd <diretório_onde_clonou_o_projeto>/dist
+    node index.js [comando] [opcao]
+
+# Exemplo:
+
+    cd <diretório_onde_clonou_o_projeto>/dist
+    node index.js htlp
+
